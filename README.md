@@ -1,16 +1,7 @@
-# Hi there 👋 im Kim donghei
----
 ## 안녕하세요 저는 김동희 입니다.
 저는 프론트엔드 수업을 받고있는 학생입니다.
 
-
-
-
-
-
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dongheiKim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dongheiKim/github-readme-stats#gh-dark-mode-only)
+[![dongheiKim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dongheiKim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dongheiKim/github-readme-stats#gh-dark-mode-only)
 ### 🦾 Skills    
 **🧑‍💻 Lang and Frameworks**    
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
