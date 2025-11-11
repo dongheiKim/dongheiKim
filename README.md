@@ -1,5 +1,5 @@
 ## 안녕하세요 저는 김동희 입니다.
-저는 프론트엔드 수업을 받고있는 학생입니다.
+저는 프론트엔드 수업을 받고있습니다.
 
 [![dongheiKim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dongheiKim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dongheiKim/github-readme-stats#gh-dark-mode-only)
 ### 🦾 Skills    
@@ -11,7 +11,7 @@
 
 
 ---
-#### 제가 좋아하는것입니다.
+#### 🎵 I like this
 
 <div>
 <a height='200' href=https://music.youtube.com/watch?v=zOkIe3RcTCs&si=R0g_qILXq3e8WLAi>
