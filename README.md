@@ -1,5 +1,4 @@
-## 안녕하세요 저는 김동희 입니다.
-저는 프론트엔드 수업을 받고있습니다.
+## 안녕하세요 김동희입니다.
 
 [![dongheiKim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dongheiKim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dongheiKim/github-readme-stats#gh-dark-mode-only)
 ### 🦾 Skills    
