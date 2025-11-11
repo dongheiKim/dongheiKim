@@ -17,3 +17,10 @@
 <img height='200' src=https://lh3.googleusercontent.com/7e0qJAww69B2DFDDUgFqp59lWMXzuHGS-GG_BFR1sD8rcO80G71aP86hV9NGCqsjx4dMEzO1yxZojAA=w544-h544-l90-rj>
 </a>
 </div>
+
+#### 🎮 My Steam account
+
+<div>
+<a height='150' href=https://steamcommunity.com/profiles/76561198025947468>
+<img height='150' src="https://avatars.akamai.steamstatic.com/3e99bbe4a9bc7752c851b67b3a5d5f7426321739_full.jpg">
+</div>
