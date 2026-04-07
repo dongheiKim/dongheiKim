@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20%EA%B9%80%EB%8F%99%ED%9D%AC%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Welcome%20to%20my%20Profile!&descSize=18&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20%EA%B9%80%EB%8F%99%ED%9D%AC%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Welcome%20to%20my%20Profile!&descSize=18&descAlignY=58" />
 </div>
 
 <!-- Typing SVG -->
@@ -54,12 +54,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="max-width: 80%;">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dongheiKim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center" style="max-width: 80%;">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dongheiKim&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
+<div align="center" style="max-width: 80%;">
   <img src="https://streak-stats.demolab.com?user=dongheiKim&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -91,5 +94,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer" />
 </div>
