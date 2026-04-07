@@ -59,9 +59,10 @@
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anytime1994" alt="Solved.ac Profile"/>
   </a>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dongheiKim&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dongheiKim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=dongheiKim&theme=tokyonight" alt="GitHub Streak" />
-  
 </div>
 
 ---
