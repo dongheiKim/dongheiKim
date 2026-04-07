@@ -70,7 +70,7 @@
 
 ---
 
-## 🎵 Favorite Song <small>👇</small>
+## 🎵 Favorite Song <sub>👇</sub>
 
 <div align="center">
   <a href="https://music.youtube.com/watch?v=zOkIe3RcTCs&si=R0g_qILXq3e8WLAi">
@@ -78,7 +78,7 @@
   </a>
 </div>
 
-## 🎮 Steam Profile <small>👇</small>
+## 🎮 Steam Profile <sub>👇</sub>
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561198025947468">
