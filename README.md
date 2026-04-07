@@ -60,7 +60,8 @@
   <a href="https://solved.ac/anytime1994">
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anytime1994" alt="Solved.ac Profile"/>
   </a>
-  <img src="https://streak-stats.demolab.com?user=dongheiKim&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=dongheiKim&theme=tokyonight" alt="GitHub Streak" />
   
 </div>
 
