@@ -54,15 +54,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="max-width: 80%;">
+<div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dongheiKim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center" style="max-width: 80%;">
+<div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dongheiKim&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center" style="max-width: 80%;">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=dongheiKim&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
