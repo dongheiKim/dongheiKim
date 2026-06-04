@@ -25,11 +25,11 @@
 배움을 즐기는 개발자로, 꾸준히 성장하고 있습니다. 😊
 
 ```
-💡 Always learning new technologies
-🎵 Music lover
-🎮 Fps gamer
+Hi, I'm Donghei Kim! 👋
+🚀 Front-End Developer | Always learning and growing
+🎮 FPS Gamer
+🎵 Music Lover
 ```
-
 ---
 
 ## 🦾 Skills
